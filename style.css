@@ -1,0 +1,13 @@
+div {
+	height: 200px;
+	width: 500px;
+	box-shadow: 0px 20px 20px 0px rgba(198, 18, 1), 0px 30px 25px 0px blue,
+		0px 40px 15px 0px orange, 0px 65px 35px 0px green;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	/* align-items: center; */
+	height: 100vh;
+}
